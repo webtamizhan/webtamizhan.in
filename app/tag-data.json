@@ -1,6 +1,9 @@
 {
-  "ai": 1,
+  "ai": 2,
+  "developer-tools": 1,
+  "cli": 1,
+  "productivity": 2,
+  "open-source": 1,
   "markdown": 1,
-  "productivity": 1,
   "cloudflare": 1
 }
